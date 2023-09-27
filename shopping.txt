@@ -1,3 +1,7 @@
 naranja
 pepino
-lechiga
+lechuga
+manzana 
+aguacate
+melon 
+melocoton
